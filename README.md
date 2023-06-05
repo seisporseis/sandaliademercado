@@ -1,2 +1,2 @@
-# sandaliademercado
-repositorio personal para perfil profesional
+# ¡Holi! Soy Dalia Mercado, desarrolladora web full stack 🤟🏽
+
