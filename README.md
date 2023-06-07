@@ -1,2 +1,3 @@
-# ¡Holi! Soy Dalia Mercado, desarrolladora web full stack 🤟🏽
+# ¡Holi! 
+# Soy Dalia Mercado, desarrolladora web full stack 🤟🏽
 
