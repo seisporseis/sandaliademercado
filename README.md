@@ -2,10 +2,12 @@
 <h3 align="center">A curious junior full stack developer from Perú living in Madrid.</h3>
 
 - 🔭 I’m currently searching **for my first job as a full stack developer**
+  
+- 🤓 I speak Spanish (native), English (C1), and Italian (C1)
 
 - 🌱 I’m currently learning **React, react native and Python**
 
-- 👯 I’m looking to collaborate on **diverse,dinamic and collaborative teams**
+- 👯 I’m looking to collaborate on **diverse, dinamic and collaborative teams**
 
 - 👨‍💻 All my projects are available at [daliamercado.com/porftolio](daliamercado.com/porftolio)
 
