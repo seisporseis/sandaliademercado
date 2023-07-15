@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **diverse, dinamic and collaborative teams**
 
-- 👨‍💻 All my projects are available at [daliamercado.com/porftolio](daliamercado.com/porftolio)
+- 👨‍💻 My portfolio is under construction but you can see a sneak peek here: (https://seisporseis.github.io/PortfolioDM/)
 
 - 📫 Write me at **dalia.mercado@gmail.com**
 
