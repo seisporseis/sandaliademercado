@@ -5,11 +5,9 @@
   
 - 🤓 I speak Spanish (native), English (C1), and Italian (C1)
 
-- 🌱 I’m currently learning **React, react native and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **diverse, dinamic and collaborative teams**
-
-- 👨‍💻 My portfolio is under construction but you can see a sneak peek here: (https://seisporseis.github.io/PortfolioDM/)
 
 - 📫 Write me at **dalia.mercado@gmail.com**
 
