@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dalia Mercado</h1>
 <h3 align="center">A curious junior full stack developer from Perú living in Madrid.</h3>
 
-- 🔭 I’m currently searching **for my first job as a full stack developer**
+- 🔭 I’m currently searching **for a full stack developer junior position**
   
 - 🤓 I speak Spanish (native), English (C1), and Italian (C1)
 
