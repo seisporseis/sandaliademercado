@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dalia Mercado</h1>
 <h3 align="center">A full stack developer from Perú and coding from Spain..</h3>
 
-- 🔭 I’m currently searching **to continue improving my skills as full stack developer**
+- 🔭 I’m currently searching **to continue improving my skills as full stack developer and data science**
 
 - 🌱 I’m currently learning **Python, R for data science.**
 
